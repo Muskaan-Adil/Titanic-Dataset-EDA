@@ -16,4 +16,4 @@ This project performs **Exploratory Data Analysis (EDA)** on the Titanic dataset
   - PassengerId, Survived, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, Embarked
 
 ## Report:
-For a detailed analysis of the dataset, please refer to the [Titanic_EDA_Report.md).
+For a detailed analysis of the dataset, please refer to the [Titanic_EDA_Report.md](https://github.com/Muskaan-Adil/Titanic-Dataset-EDA/blob/main/Titanic_EDA_Report.md).
